@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3a8a4c8-7d90-4426-a90c-dce6915c702e" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Plotter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Salter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestLibrary.java" afterDir="false" />
+    <list default="true" id="a3a8a4c8-7d90-4426-a90c-dce6915c702e" name="Changes" comment="original plotter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Salter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Salter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "pranjal0416"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pranjal0416&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/pranjal0416/StatsProject2.git",
-    "accountId": "4e2f5124-aca4-47d3-b1a6-f4b86df7d6f8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pranjal0416/StatsProject2.git&quot;,
+    &quot;accountId&quot;: &quot;4e2f5124-aca4-47d3-b1a6-f4b86df7d6f8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -80,7 +77,9 @@
       <option name="presentableId" value="Default" />
       <updated>1732482294147</updated>
       <workItem from="1732482295156" duration="662000" />
-      <workItem from="1732483049148" duration="706000" />
+      <workItem from="1732483049148" duration="1693000" />
+      <workItem from="1733190244726" duration="607000" />
+      <workItem from="1733452481622" duration="500000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -114,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732483138604</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="original plotter">
+      <option name="closed" value="true" />
+      <created>1732483994949</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732483994949</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="original plotter" />
+    <option name="LAST_COMMIT_MESSAGE" value="original plotter" />
   </component>
 </project>

@@ -118,7 +118,7 @@ public class Smoother {
      * This method runs the program
      */
     public void run(){
-        assignValue("/Users/chris/Documents/Stockton/Spring 2024/Stats/Stats Project Two/PlotterProgram/CSV/SaltedCS.csv");
+        assignValue("/Users/ridhi/IdeaProjects/StatsProject2/PlotterProgram/CSV/ProgramPlotterCS.csv");
         smoother(60);
         exportData();
     }
