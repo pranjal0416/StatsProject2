@@ -135,7 +135,7 @@ public class Salter {
      * this method runs the program
      */
     public void run(){
-        assignValue("/Users/ridhi/IdeaProjects/StatsProject2/PlotterProgram/CSV/ProgramPlotterCS.csv");
+        assignValue("/Users/ridhi/IdeaProjects/StatsProject2/JavaPSS/CSV/ProgramPlotterCS.csv");
         saltValues(-100000, 100000);
         exportData();
     }
